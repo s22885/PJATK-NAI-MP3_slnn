@@ -7,7 +7,7 @@ An ANN is based on a collection of connected units or nodes called artificial ne
 
 ## Images
 
-![App Screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Single-Layer_Neural_Network-Vector-Blank.svg/1280px-Single-Layer_Neural_Network-Vector-Blank.svg.png)
+![App Screenshot](https://www.researchgate.net/profile/Marco-Montemurro-2/publication/334439609/figure/fig5/AS:916471756644353@1595515302273/Architecture-of-a-single-layer-feed-forward-neural-network.jpg)
 ![App Screenshot](https://miro.medium.com/max/1400/1*K6n6x0RCiYllwpCRPObMsQ.png)
 
 
